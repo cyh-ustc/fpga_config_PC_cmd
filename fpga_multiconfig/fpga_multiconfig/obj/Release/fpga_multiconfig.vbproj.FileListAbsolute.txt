@@ -1,0 +1,10 @@
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\bin\Release\fpga_multiconfig.exe.config
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\bin\Release\fpga_multiconfig.exe
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\bin\Release\fpga_multiconfig.pdb
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\bin\Release\fpga_multiconfig.xml
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.Resources.resources
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.vbproj.GenerateResource.Cache
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.exe
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.xml
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.pdb
+C:\Users\cyh\documents\visual studio 2017\Projects\fpga_multiconfig\fpga_multiconfig\obj\Release\fpga_multiconfig.vbprojResolveAssemblyReference.cache
